@@ -7,7 +7,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Welcome to §9§9§9§b§b§b§b§b§b§l§l§l§l§l§lSupersymmetry§r§r§r§r§r§r! \n\nYou have just landed on an unfamiliar planet. This book will teach you how to rebuild civilization from scratch in only §k4200§r pages.\n\nStart by getting a rock§r. This book is interactive.\n\nWhen you pick up a rock from the ground, press the §l§l§l§l§l§l§a§a§a§a§a§aSUBMIT§r button to complete the quest and continue.\n\nIf you lose this book, you can check the quests by pressing the §2§aGRAVE §rkey.\n\nPages that have a normal icon aren\u0027t required for progression. \nPages that have a framed icon, like this one are §crequired §rand contain critical information for your survival.\n\nYou have been given a §6home block§r. It allows you to set your spawn if you ever die. You cannot skip the night, as beds are not available before EV.\n\n",
+          "desc:8": "Welcome to §9§9§9§b§b§b§b§b§b§l§l§l§l§l§lSupersymmetry§r§r§r§r§r§r! \n\nYou have just landed on an unfamiliar planet. This book will teach you how to rebuild civilization from scratch in only §k4200§r pages.\n\nStart by getting a rock§r. This quest book is interactive.\n\nWhen you pick up a rock from the ground, press the §l§l§l§l§l§l§a§a§a§a§a§aSUBMIT§r button to complete the quest and continue.\n\nIf you lose this book, you can check the quests by pressing the §2§aGRAVE (`) §rkey.\n\nPages that have a normal icon aren\u0027t required for progression. \nPages that have a framed icon, like this one are §crequired §rand contain critical information for your survival.\n\nYou have been given a §6home block§r. It allows you to set your spawn if you ever die. You cannot skip the night, as beds are not available before EV.\n\n",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -90,7 +90,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "It is probably impossible to try to play GregTech without using JEI. So here are some tips on how to use JEI to its full potential.\n\nThis pack will assume that the player\u0027s IQ is above 100. If you are confused, press §6R §ron an item in the questbook to see the item\u0027s crafting recipe, or §6U §rto see its uses.\n\n§eBookmark items regularly§r (default key §aA§r) so you don\u0027t have to type the names over and over.\n\nMost of the items have §emultiple recipes§r! Dont stop at the first recipe and think that item is impossible.\nSometimes a material is only available from §etiny dusts§r, sometimes it\u0027s available from a §efluid solution§r. It takes some practice. Oil processing and nuclear chemistry are pretty bad about this.\n\nYou can §epress @§r to see only items from that mod. For example, if you search for §c@gregtech§r, you will only see items from GregTech.\n\nYou can §epress $ §rto see only items from a specific entry in the Ore Dictionary. For example, if you search for §c$logWood§r, you will only see wooden logs.\n\nYou can §epress U §ron an item to see its uses.",
+          "desc:8": "It is probably impossible to try to play GregTech without using JEI. So here are some tips on how to use JEI to its full potential.\n\nThis pack will assume that the player\u0027s IQ is above 100. If you are confused, press §6R §ron an item in the questbook to see the item\u0027s crafting recipe, or §6U §rto see its uses.\n\n§eBookmark items regularly§r (default key §aA§r) so you don\u0027t have to type the names over and over.\n\nMost of the items in this pack have §emultiple recipes§r! Don\u0027t stop at the first recipe and think that item is impossible.\nSometimes a material is only available from §etiny dusts§r, sometimes it\u0027s available from a §efluid solution§r. It takes some practice. Oil processing and nuclear chemistry are pretty bad about this.\n\nYou can §epress @§r to see only items from that mod. For example, if you search for §c@gregtech§r, you will only see items from GregTech.\n\nYou can §epress $ §rto see only items from a specific entry in the Ore Dictionary. For example, if you search for §c$logWood§r, you will only see wooden logs.\n\nYou can §epress U §ron an item to see its uses.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -142,7 +142,7 @@
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "Damage:2": 2013,
+            "Damage:2": 0,
             "ForgeCaps:10": {
               "regeneration:arch:10": {
                 "arch_status:8": "NORMAL_ITEM",
@@ -153,7 +153,7 @@
               }
             },
             "OreDict:8": "",
-            "id:8": "gregtech:meta_screw"
+            "id:8": "sereneseasons:season_clock"
           },
           "ignoresview:1": 0,
           "ismain:1": 0,
@@ -186,7 +186,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Flint shards§r are needed to get yourself some tools. \n\nGravel can be mined without a tool, and enables you to acquire flint.\n\nFlint can be knapped [§aRight Click while looking at the top side of stone§r] on an exposed stone surface, obtaining flint shards.",
+          "desc:8": "Flint shards§r are needed to get yourself some tools, for now. \n\nGravel can be mined without a tool, and enables you to acquire flint.\n\nFlint can be knapped [§aRight Click with the flint in hand while looking at the top side of stone§r] on an exposed stone surface, obtaining flint shards.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -1165,7 +1165,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Copper is found in §6Chalcopyrite, Chalcocite, Malachite, Bornite, Tetrahedrite, §ror §6Copper Ore§r deposits. Copper can be found pretty much everywhere in the Earth\u0027s crust, and even in the deeper layers.\n\nIf you are having trouble finding a specific deposit, look it up in the JEI database, you will find a page showing where it is found. \n\nLet\u0027s start by getting 20 copper ingots.\n\nFinding a §6Tiny Pile of Copper Dust §ron the ground means that there is a deposit under it. ",
+          "desc:8": "Copper is found in §6Chalcopyrite, Chalcocite, Malachite, Bornite§f, or §6Tetrahedrite §fveins. Copper can be found pretty much everywhere in the Earth\u0027s crust, and even in the deeper layers.\n\nIf you are having trouble finding a specific deposit, look it up in the JEI database, you will find a page showing where it is found. \n\nLet\u0027s start by getting 30 copper ingots.\n\nFinding a §6Tiny Pile of Copper Dust §ron the ground means that there is a deposit under it.\n\n§0§9§e§d§c§b§l§c§c§lAs a very important rule of thumb, quest retrieval numbers are arbitrary. You can follow the suggestion here, but trust me when I say you will need a whole lot more Copper.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -1209,7 +1209,7 @@
           "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
-              "Count:3": 20,
+              "Count:3": 30,
               "Damage:2": 25,
               "ForgeCaps:10": {
                 "regeneration:arch:10": {
@@ -1220,7 +1220,7 @@
                   "trait:8": "regeneration:boring"
                 }
               },
-              "OreDict:8": "ingotCopper",
+              "OreDict:8": "",
               "id:8": "gregtech:meta_ingot"
             }
           },
@@ -1235,7 +1235,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Tin can be found in §6Cassiterite Sand§r, §6Cassiterite Ore§r§r§r, §rand §6Tin Ore§r deposits. You can look them up in the JEI database to see where you can find them.\n\nTin is a silvery-coloured metal. Tin is soft enough to be cut with little force and a bar of tin can be bent with little effort. \n§6\n§l§rOre deposits cover a surface of 20 by 20 meters across. Each deposit can contain up to 5,000 ingots worth of ore. ",
+          "desc:8": "Tin can be found in §6Cassiterite Sand§r and §6Cassiterite§f§6 Ore§f veins. You can look them up in the JEI database to see where you can find them.\n\nTin is a silvery-coloured metal. Tin is soft enough to be cut with little force and a bar of tin can be bent with little effort. \n§6\n§l§rOre deposits cover a surface of 20 by 20 meters across. Each deposit can contain up to 5,000 ingots worth of ore. \n\n§0§9§e§d§c§b§l§c§c§lAs a very important rule of thumb, quest retrieval numbers are arbitrary. You can follow the suggestion here, but trust me when I say you will need a lot more Tin and especially Copper.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -1279,7 +1279,7 @@
           "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
-              "Count:3": 20,
+              "Count:3": 10,
               "Damage:2": 112,
               "ForgeCaps:10": {
                 "regeneration:arch:10": {
@@ -1305,21 +1305,33 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §amortar§r§r can be used for crushing ores and ingots into §bdusts§r. You can use stone and flint to make it. \n\n",
+          "desc:8": "The §amortar§r§r can be used for crushing ores and ingots into §bdusts§r. \n\nYou can use smelted cobblestone of any type and flint to make it. \n\n",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "Damage:2": 12,
-            "OreDict:8": "craftingToolMortar",
-            "id:8": "betterquesting:placeholder",
-            "tag:10": {
-              "orig_id:8": "gregtech:meta_tool",
-              "orig_meta:3": 12,
-              "orig_tag:10": {
-                "GT.ToolStats:10": {
-                  "Material:8": "darmstadtium"
-                }
+            "Damage:2": 0,
+            "ForgeCaps:10": {
+              "regeneration:arch:10": {
+                "arch_status:8": "NORMAL_ITEM",
+                "regenAmount:3": 0,
+                "skin:8": "NONE",
+                "skinType:8": "STEVE",
+                "trait:8": "regeneration:boring"
               }
+            },
+            "OreDict:8": "",
+            "id:8": "gregtech:mortar",
+            "tag:10": {
+              "DisallowContainerItem:1": 0,
+              "GT.Behaviours:10": {},
+              "GT.Tool:10": {
+                "AttackDamage:5": 0.0,
+                "AttackSpeed:5": -2.4,
+                "Durability:3": 0,
+                "Material:8": "gregtech:flint",
+                "MaxDurability:3": 63
+              },
+              "HideFlags:3": 2
             }
           },
           "ignoresview:1": 0,
@@ -1369,8 +1381,8 @@
                   "AttackDamage:5": 0.0,
                   "AttackSpeed:5": -2.4,
                   "Durability:3": 0,
-                  "Material:8": "iron",
-                  "MaxDurability:3": 256
+                  "Material:8": "gregtech:flint",
+                  "MaxDurability:3": 63
                 },
                 "HideFlags:3": 2
               }
@@ -1403,7 +1415,7 @@
                 "trait:8": "regeneration:boring"
               }
             },
-            "OreDict:8": "ingotBronze",
+            "OreDict:8": "",
             "id:8": "gregtech:meta_ingot"
           },
           "ignoresview:1": 0,
@@ -1489,7 +1501,7 @@
                   "trait:8": "regeneration:boring"
                 }
               },
-              "OreDict:8": "ingotBronze",
+              "OreDict:8": "",
               "id:8": "gregtech:meta_ingot"
             }
           },
@@ -1601,7 +1613,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Breaking leaves§r with a piece of Flint§r or a Flint Knife will drop a stick. However, Flint Shards will not work.",
+          "desc:8": "Breaking leaves§r with a piece of Flint§r or a Flint Knife will drop a stick. Flint Shards will not work.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -1672,7 +1684,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §7Coke Oven §ris a hollow 3x3x3 structure made of Coke Bricks with a Coke Oven Controller in the center.\nIt turns §7Coal §rinto §7Coal Coke§r, and Logs into Charcoal.\n\nCoal Coke burns longer in furnaces, and in small coal boilers. \n\nThe Coke Oven also produces Creosote Oil, which can be used either as furnace fuel or for creating§6 Treated Wood §rblocks.",
+          "desc:8": "The §7Coke Oven §ris a hollow 3x3x3 structure made of Coke Bricks with a Coke Oven Controller in the center.\nIt turns §7Coal §rinto §7Coal Coke§r, and Logs into Charcoal.\n\nCoal Coke burns longer in furnaces, and in small coal boilers. \n\nThe Coke Oven also produces Creosote Oil, which can be used either as furnace and liquid boiler fuel, or for creating§6 Treated Wood §rblocks.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -1707,7 +1719,7 @@
           "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
-              "Count:3": 29,
+              "Count:3": 25,
               "Damage:2": 8,
               "OreDict:8": "",
               "id:8": "gregtech:metal_casing"
@@ -1745,21 +1757,36 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§rMore advanced tools will be needed to progress towards the Industrial Age. There are six major types of tools.\n\n§6§lBronze tools should be made first, since you are quite a bit away from iron.§r \n\nThe §2hammer §ris used kind of everywhere. It\u0027s used to make all the other tools and it turns ingots into plates\nThe §2file§r turns ingots into rods.\nThe §2saw §rturns wood planks into slabs, and turns logs into 6 planks.\nThe §2screwdriver§r is used in most recipes and in setting up covers. It also makes important parts like gears and rotors.\nThe §2wrench§r is used in cutting pipes and it\u0027s probably the most important tools out of all of them.\nThe §2wire cutter§r cuts wiring.\n\n§l§c§lBoth JEI and the book will show iron tools wherever tools are used. Tools other than iron will not show up in the JEI search. Bronze tools exist and should be made first. Generally, recipes accept all kinds of tools.§r",
+          "desc:8": "§rMore advanced tools will be needed to progress towards the Industrial Age. There are six major types of tools.\n\n§6§lBronze tools should be made first, since you are quite a bit away from other materials.§r \n\nThe §2hammer §ris used kind of everywhere. It\u0027s used to make all the other tools and it turns ingots into plates\nThe §2file§r turns ingots into rods.\nThe §2saw §rturns wood planks into slabs, and turns logs into 6 planks.\nThe §2screwdriver§r is used in most recipes and in setting up covers. It also makes important parts like gears and rotors.\nThe §2wrench§r is used in cutting pipes and it\u0027s probably the most important tools out of all of them.\nThe §2wire cutter§r cuts wiring.\n\n§l§c§lBoth JEI and the book will show iron tools wherever tools are used. Tools other than iron will not show up in the JEI search. Bronze tools exist and should be made first. Generally, recipes accept all kinds of tools.§r",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "Damage:2": 6,
-            "OreDict:8": "craftingToolHardHammer",
-            "id:8": "betterquesting:placeholder",
-            "tag:10": {
-              "orig_id:8": "gregtech:meta_tool",
-              "orig_meta:3": 6,
-              "orig_tag:10": {
-                "GT.ToolStats:10": {
-                  "Material:8": "darmstadtium"
-                }
+            "Damage:2": 0,
+            "ForgeCaps:10": {
+              "regeneration:arch:10": {
+                "arch_status:8": "NORMAL_ITEM",
+                "regenAmount:3": 0,
+                "skin:8": "NONE",
+                "skinType:8": "STEVE",
+                "trait:8": "regeneration:boring"
               }
+            },
+            "OreDict:8": "",
+            "id:8": "gregtech:hammer",
+            "tag:10": {
+              "DisallowContainerItem:1": 0,
+              "GT.Behaviours:10": {},
+              "GT.Tool:10": {
+                "AttackDamage:5": 3.0,
+                "AttackSpeed:5": -2.8,
+                "Durability:3": 0,
+                "HarvestLevel:3": 2,
+                "LastCraftingUse:3": -1178761476,
+                "Material:8": "gregtech:bronze",
+                "MaxDurability:3": 191,
+                "ToolSpeed:5": 7.0
+              },
+              "HideFlags:3": 2
             }
           },
           "ignoresview:1": 0,
@@ -1810,9 +1837,10 @@
                   "AttackSpeed:5": -2.8,
                   "Durability:3": 0,
                   "HarvestLevel:3": 2,
-                  "Material:8": "iron",
-                  "MaxDurability:3": 256,
-                  "ToolSpeed:5": 6.0
+                  "LastCraftingUse:3": -1178761476,
+                  "Material:8": "gregtech:bronze",
+                  "MaxDurability:3": 191,
+                  "ToolSpeed:5": 7.0
                 },
                 "HideFlags:3": 2
               }
@@ -1838,8 +1866,9 @@
                   "AttackDamage:5": 0.0,
                   "AttackSpeed:5": -2.4,
                   "Durability:3": 0,
-                  "Material:8": "iron",
-                  "MaxDurability:3": 256
+                  "LastCraftingUse:3": -1178761476,
+                  "Material:8": "gregtech:bronze",
+                  "MaxDurability:3": 191
                 },
                 "HideFlags:3": 2
               }
@@ -1867,8 +1896,8 @@
                   "AttackDamage:5": 1.0,
                   "AttackSpeed:5": -2.6,
                   "Durability:3": 0,
-                  "Material:8": "iron",
-                  "MaxDurability:3": 256
+                  "Material:8": "gregtech:bronze",
+                  "MaxDurability:3": 191
                 },
                 "HideFlags:3": 2
               }
@@ -1894,8 +1923,9 @@
                   "AttackDamage:5": 1.0,
                   "AttackSpeed:5": 3.0,
                   "Durability:3": 0,
-                  "Material:8": "iron",
-                  "MaxDurability:3": 256
+                  "LastCraftingUse:3": -1178761476,
+                  "Material:8": "gregtech:bronze",
+                  "MaxDurability:3": 191
                 },
                 "HideFlags:3": 2
               }
@@ -1922,9 +1952,9 @@
                   "AttackSpeed:5": -2.8,
                   "Durability:3": 0,
                   "HarvestLevel:3": 2,
-                  "Material:8": "iron",
-                  "MaxDurability:3": 256,
-                  "ToolSpeed:5": 6.0
+                  "Material:8": "gregtech:bronze",
+                  "MaxDurability:3": 191,
+                  "ToolSpeed:5": 7.0
                 },
                 "HideFlags:3": 2
               }
@@ -1951,9 +1981,9 @@
                   "AttackSpeed:5": -2.4,
                   "Durability:3": 0,
                   "HarvestLevel:3": 2,
-                  "Material:8": "iron",
-                  "MaxDurability:3": 256,
-                  "ToolSpeed:5": 6.0
+                  "Material:8": "gregtech:bronze",
+                  "MaxDurability:3": 191,
+                  "ToolSpeed:5": 7.0
                 },
                 "HideFlags:3": 2
               }
@@ -1970,7 +2000,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "A furnace is not really good for smelting items. Its maximum temperature is only 1000 K (730°C), which is not hot enough for iron.\n\nA Primitive Blast Furnace is made out of 32 §cFirebricks§r and 1 §4Primitive Blast Furnace Controller§r. It\u0027s a  §a3x4x3 structure§r§r of firebricks that is hollowed out in the middle. For more help, look at the §cStructure Preview§r in the JEI database.\n\nThe Primitive Blast Furnace can smelt iron, wrought iron and §bsteel§r. It has a maximum temperature of about 1400 K (1,127°C).\n\nLike many other structures, it is possible to share the walls of multiple Primitive Blast Furnaces and they will still work.",
+          "desc:8": "A furnace is not really good for smelting items. Its maximum temperature is only 1,000 K (730°C), which is not hot enough for iron.\n\nA Primitive Blast Furnace is made out of 32 §cFirebricks§r and 1 §4Primitive Blast Furnace Controller§r. It\u0027s a §a3x4x3 structure§r§r of firebricks that is hollowed out in the middle. For more help, look at the §cStructure Preview§r in the JEI database.\n\nThe Primitive Blast Furnace can make iron, wrought iron and §bsteel§r. It has a maximum temperature of about 1,500 K (1,227°C).\n\nLike many other structures, it is possible to share the walls of multiple Primitive Blast Furnaces and they will still work.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -2005,7 +2035,7 @@
           "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
-              "Count:3": 33,
+              "Count:3": 32,
               "Damage:2": 1,
               "OreDict:8": "",
               "id:8": "gregtech:metal_casing"
@@ -2216,7 +2246,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§7Iron §ris the most common element on planet Earth. It is used for refining it into §6steel§r [see the next page] and for basic tools. It is one of the most important metals of the Industrial Age.\n\nExtracting usable metal from iron ores requires kilns or furnaces (such as a §cBlast Furnace§r) capable of reaching 1,500 °C (1,773K) or higher, about 500 °C higher than that required to smelt copper. \n\n",
+          "desc:8": "§7Iron §ris one of the most common elements on planet Earth. It is used for refining into §6Steel§r [see the next quest] and for basic tools. It is undeniably the most important material in the Industrial Age.\n\nThe §6§6§6Pig Iron§f you have obtained from the previous quest §rmust be hammered into §7Wrought Iron§f, either using a normal Hammer or a Forge Hammer. This §8§7Wrought Iron §fmust then be stuffed into a normal Furnace for normal §7Iron§f.\n\nNot so fast, however. Make sure §c§4NOT § to use all of your §7Wrought Iron §ffor §7Iron§f, § because you will need some of it to make §6Steel§f.\n\nAlso, as a side note, the quest retrieval numbers are arbitrary here too. You will want to batch smelt a §overy large amount §fof §7Iron§f. Just trust me on this one.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -2260,7 +2290,22 @@
           "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
-              "Count:3": 32,
+              "Count:3": 16,
+              "Damage:2": 335,
+              "ForgeCaps:10": {
+                "regeneration:arch:10": {
+                  "arch_status:8": "NORMAL_ITEM",
+                  "regenAmount:3": 0,
+                  "skin:8": "NONE",
+                  "skinType:8": "STEVE",
+                  "trait:8": "regeneration:boring"
+                }
+              },
+              "OreDict:8": "",
+              "id:8": "gregtech:meta_ingot"
+            },
+            "1:10": {
+              "Count:3": 8,
               "Damage:2": 0,
               "ForgeCaps:10": {
                 "regeneration:arch:10": {
@@ -2428,7 +2473,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "We can make better tools out of §6bronze§r. You need to make the tool parts first, and then assemble the tool.\n\nThe bronze axe can cut down entire trees with just one click.\n\nThe bronze mining hammer can mine an entire 3x3 meter area with one click, unless you\u0027re pressing §aSHIFT§r.\n\nThe bronze spade does the same thing as the mining hammer, except it works with blocks which work with shovels, such as dirt and sand.\n\n§c§lBoth JEI and the book will show iron tools wherever tools are used. Tools other than iron will not show up in the JEI search. Bronze tools exist and should be made first. Generally, recipes accept all kinds of tools.§r",
+          "desc:8": "We can make better tools out of §6bronze§r. You need to make the tool parts first, and then assemble the tool.\n\nThe bronze axe can cut down entire trees with just one click.\n\nThe bronze mining hammer can mine an entire 3x3 meter area with one click, unless you\u0027re pressing §aSHIFT§r.\n\nThe bronze spade does the same thing as the mining hammer, except it works with blocks which work with shovels, such as dirt and sand.\n\n§c§lJEI will show Iron tools wherever tools are used. Tools other than Iron will not show up in the JEI search. Bronze tools exist and should be made first. Generally, recipes accept all kinds of tools.§r",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -2460,9 +2505,9 @@
                 "AttackSpeed:5": -3.2,
                 "Durability:3": 0,
                 "HarvestLevel:3": 2,
-                "Material:8": "iron",
-                "MaxDurability:3": 768,
-                "ToolSpeed:5": 4.8
+                "Material:8": "gregtech:bronze",
+                "MaxDurability:3": 575,
+                "ToolSpeed:5": 5.2
               },
               "HideFlags:3": 2
             }
@@ -2518,9 +2563,9 @@
                   "AttackSpeed:5": -3.2,
                   "Durability:3": 0,
                   "HarvestLevel:3": 2,
-                  "Material:8": "iron",
-                  "MaxDurability:3": 256,
-                  "ToolSpeed:5": 4.0
+                  "Material:8": "gregtech:bronze",
+                  "MaxDurability:3": 191,
+                  "ToolSpeed:5": 5.0
                 },
                 "HideFlags:3": 2
               }
@@ -2555,9 +2600,9 @@
                   "AttackSpeed:5": -3.2,
                   "Durability:3": 0,
                   "HarvestLevel:3": 2,
-                  "Material:8": "iron",
-                  "MaxDurability:3": 768,
-                  "ToolSpeed:5": 4.8
+                  "Material:8": "gregtech:bronze",
+                  "MaxDurability:3": 575,
+                  "ToolSpeed:5": 5.2
                 },
                 "HideFlags:3": 2
               }
@@ -2591,9 +2636,9 @@
                   "AttackSpeed:5": -3.2,
                   "Durability:3": 0,
                   "HarvestLevel:3": 2,
-                  "Material:8": "iron",
-                  "MaxDurability:3": 768,
-                  "ToolSpeed:5": 4.8
+                  "Material:8": "gregtech:bronze",
+                  "MaxDurability:3": 575,
+                  "ToolSpeed:5": 5.2
                 },
                 "HideFlags:3": 2
               }
@@ -2624,7 +2669,7 @@
                 "trait:8": "regeneration:boring"
               }
             },
-            "OreDict:8": "toolSword",
+            "OreDict:8": "",
             "id:8": "gregtech:sword",
             "tag:10": {
               "DisallowContainerItem:1": 0,
@@ -2633,8 +2678,9 @@
                 "AttackDamage:5": 5.0,
                 "AttackSpeed:5": -2.4,
                 "Durability:3": 0,
-                "Material:8": "iron",
-                "MaxDurability:3": 256
+                "HarvestLevel:3": 2,
+                "Material:8": "gregtech:bronze",
+                "MaxDurability:3": 191
               },
               "HideFlags:3": 2
             }
@@ -2686,16 +2732,11 @@
                   "AttackDamage:5": 5.0,
                   "AttackSpeed:5": -2.4,
                   "Durability:3": 0,
-                  "Material:8": "bronze",
-                  "MaxDurability:3": 192
+                  "HarvestLevel:3": 2,
+                  "Material:8": "gregtech:bronze",
+                  "MaxDurability:3": 191
                 },
-                "HideFlags:3": 2,
-                "ench:9": {
-                  "0:10": {
-                    "id:2": 21,
-                    "lvl:2": 5
-                  }
-                }
+                "HideFlags:3": 2
               }
             }
           },
@@ -2710,7 +2751,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Steel§r is an alloy of iron and carbon with §6improved strength§r and fracture resistance compared to other forms of iron.\n\nA §cPrimitive Blast Furnace §rcan turn iron ingots into §l§esteel§r, by smelting them with coal coke. \n\nMaking steel is one of the top priorities of the Industrial Age. Make sure to have your Primitive Blast Furnace running at all times, or try to make 4 Primitive Blast Furnaces sharing their walls.",
+          "desc:8": "§6Steel§r is an alloy of iron and carbon with §6improved strength§r and fracture resistance compared to other forms of iron.\n\nThe §cPrimitive Blast Furnace§f §rcan turn §7Wrought Iron§f ingots into §l§e§6Steel§r, by smelting them with Coal Coke. \n\nMaking steel is one of the top priorities of the Industrial Age. Make sure to have your Primitive Blast Furnace running at all times, and try to make 4 Primitive Blast Furnaces sharing their walls.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -3411,6 +3452,7 @@
     },
     "41:10": {
       "preRequisites:11": [
+        35,
         49
       ],
       "properties:10": {
@@ -3429,7 +3471,7 @@
           "issilent:1": 0,
           "lockedprogress:1": 0,
           "name:8": "Vulcanizing Press",
-          "questlogic:8": "AND",
+          "questlogic:8": "OR",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
           "simultaneous:1": 0,
@@ -3608,7 +3650,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Pyrite §rcan be obtained by digging in §6Galena §ror §6Sphalerite §rdeposits, found in the first two layers of the crust.\n\nPyrite §6dust §rcan be roasted to obtain Banded Iron dust and elemental §6Sulfur§r, which will be used in processing rubber.\n\n§cIron II Sulfate§o§r can be roasted again to obtain §6Sulfur Trioxide§r.",
+          "desc:8": "§6Pyrite §rcan be obtained by digging in §6Galena §ror §6Sphalerite §rdeposits, found in the first two layers of the crust.\n\nPyrite §6dust §rcan be roasted to obtain Banded Iron dust and elemental §6Sulfur§r, which will be used in processing rubber.\n\n§cIron III Sulfate§o§r can be roasted again to obtain §6Sulfur Trioxide§r.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -3746,7 +3788,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Sulfur Trioxide and Water can be mixed together to create §6Sulfuric Acid§r.\n\nSO3 + H2O -\u003e H2SO4\n\nSince §6Sulfuric Acid §ris an acid, it will require §6special equipment §rto handle it. §c§lBuckets or Bronze/Steel Drums can\u0027t handle Acids. §rYou must use a §c§lLead Drum §rto transport Sulfuric Acid, as it\u0027s acid-proof.",
+          "desc:8": "Sulfur Trioxide and Water can be mixed together to create §6Sulfuric Acid§r.\n\nSO3 + H2O -\u003e H2SO4\n\nSince §6Sulfuric Acid §ris an acid, it will require §6special equipment §rto handle it. §c§lBuckets or Bronze/Steel Drums can\u0027t handle Acids. §rYou must use a §c§lLead Drum or Gold Drum §rto transport Sulfuric Acid, as it\u0027s acid-proof.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -3789,13 +3831,30 @@
           "autoConsume:1": 0,
           "consume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
               "Damage:2": 14553,
+              "OreDict:8": "",
+              "id:8": "gregtech:machine"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 1,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 1617,
               "OreDict:8": "",
               "id:8": "gregtech:machine"
             }
@@ -3933,7 +3992,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The§6 Coagulation Tank§r is a hollow, 3x3x3 cubic structure that coagulates fluids into solids.\n\nThe Coagulation Tank requires:\n§6- 1 Coagulation Tank Controller\n- 24 Wooden Coagulation Tank Wall\n§r\nThe tank can coagulate liquid Latex into a solid hunk of Latex. \nSome fluid §6Catalysts§r can be used to make the process faster, but it requires that Circuits are supplied to the machine, so this isn\u0027t available right now. \n\nYou can §cautomate this machine §rby adding a GT Input Hatch and Output Bus to the structure.\n\nWhile this machine isn\u0027t strictly required, it makes the next step of the Rubber processing chain about §c8x more efficient§r.",
+          "desc:8": "The§6 Coagulation Tank§r is a hollow, 3x3x3 cubic structure that coagulates fluids into solids.\n\nThe Coagulation Tank requires:\n§6- 1 Coagulation Tank Controller\n- 24 Wooden Coagulation Tank Wall\n§r\nThe tank can coagulate liquid Latex into a solid hunk of Latex. \nSome fluid §6Catalysts§r can be used to make the process faster, but it requires that Circuits are supplied to the machine, so this isn\u0027t available right now. \n\nYou can §cautomate this machine §rby adding a GT Input Hatch and Output Bus to the structure.\n\nWhile this machine isn\u0027t strictly required, it makes the next step of the Rubber processing chain about §c8x more efficient§\n\n\n§f§lNote: This multiblock has some issues with input hatch/output bus placement. I suggest you try building this multiblock in creative first, to see which hatch placment allows the §6§lCoagulation Tank§r§l to form.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -3942,7 +4001,7 @@
             "id:8": "gregtech:machine"
           },
           "ignoresview:1": 0,
-          "ismain:1": 1,
+          "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
           "name:8": "Coagulation Tank",
@@ -4455,7 +4514,7 @@
           "issilent:1": 0,
           "lockedprogress:1": 0,
           "name:8": "Liquid Boilers",
-          "questlogic:8": "AND",
+          "questlogic:8": "OR",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
           "simultaneous:1": 0,
@@ -4508,7 +4567,7 @@
           "issilent:1": 0,
           "lockedprogress:1": 0,
           "name:8": "Power of the Sun",
-          "questlogic:8": "AND",
+          "questlogic:8": "OR",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
           "simultaneous:1": 0,
@@ -4547,7 +4606,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Bronze Drums §rdon\u0027t occupy much space, but they can store up to 32,000 L of fluid in a single block.\n\nSteel Drums hold more, at 64,000 L. Aluminium holds 128,000 and Stainless holds 256,000.",
+          "desc:8": "§6Bronze Drums §rdon\u0027t occupy much space, but they can store up to 32,000 L of fluid in a single block.\n\n§8Steel§f Drums hold more, at 64,000 L. §9§b§3§3§1§9§b§3Aluminium§f Drums hold 128,000 L and §e§3§f§0§b§c§d§b§3§bStainless Steel§f drums hold 256,000 L.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -5167,13 +5226,22 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "-- §aIMPORTANT INFORMATION§r --\n- Surface gravity: 1g\n- Day length: 24 hours \n- Atmosphere: Breathable (1 atm)\n    1. 78.084% Nitrogen\n    2. 20.946% Oxygen\n    3. 0.9340% Argon\n    4. 0.0417% Carbon Dioxide\n    5. 0.001818% Neon\n    6. 0.000524% Helium\n    7. 0.000187% Methane\n    8. 0.000114% Krypton\n- Orbital period: 360 Days \n- Satellites:\n    1. Moon\n-------------------------\n\n§aEarth§r is a terrestrial planet that orbits a star called §6the Sun§r. It has a rocky surface that is divided into various landforms known as continents. It includes vast oceans, towering mountains, lush forests, arid deserts, and polar ice caps. The oceans cover approximately 70% of the planet\u0027s surface, while the remaining 30% is made up of land.\n\nThe mountains on Earth can reach incredible heights. Forests on Earth are abundant and provide a home for many different species of plants and animals. These forests are a vital component of the planet\u0027s ecosystem and play an essential role in regulating the Earth\u0027s climate. \n\n§cBy digging down from the Earth\u0027s surface, one can encounter three types of rocks: Sedimentary, Igneous and Metamorphic. Sedimentary rocks, like limestone, can be found at altitude levels up to 40, while igneous rocks, like gabbro or granite, can be found between 0 and 40.\n\nUnder the Earth there is a cave system called The Beneath. This cave system is a complex network of underground tunnels, chambers, and passageways that stretches over a significant distance. You can get to it by digging down to Y level 0.\n\n",
+          "desc:8": "-- §aIMPORTANT INFORMATION§r --\n- Surface gravity: 1g\n- Day length: 24 hours \n- Atmosphere: Breathable (1 atm)\n    1. 78.084% Nitrogen\n    2. 20.946% Oxygen\n    3. 0.9340% Argon\n    4. 0.0417% Carbon Dioxide\n    5. 0.001818% Neon\n    6. 0.000524% Helium\n    7. 0.000187% Methane\n    8. 0.000114% Krypton\n- Orbital period: 365 Days \n- Satellites:\n    1. Moon\n\n-------------------------\n\n§aEarth§r is a terrestrial planet that orbits a star called §6the Sun§r, also known as §6Sol§f. It has a rocky surface that is divided into various landforms known as continents. It includes vast oceans, towering mountains, lush forests, arid deserts, and polar ice caps. The oceans cover approximately 70% of the planet\u0027s surface, while the remaining 30% is made up of land.\n\nThe mountains on Earth can reach incredible heights. Forests on Earth are abundant and provide a home for many different species of plants and animals. These forests are a vital component of the planet\u0027s ecosystem and play an essential role in regulating the Earth\u0027s climate. \n\n§cBy digging down from the Earth\u0027s surface, one can encounter three types of rocks: Sedimentary, Igneous and Metamorphic. Sedimentary rocks, like limestone, can be found at altitude levels up to 40, while igneous rocks, like gabbro or granite, can be found between 0 and 40.\n\nUnder the Earth there is a cave system called The Beneath. This cave system is a complex network of underground tunnels, chambers, and passageways that stretches over a significant distance. You can get to it by digging down to Y level 0, and venturing below.\n\n",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 0,
+            "ForgeCaps:10": {
+              "regeneration:arch:10": {
+                "arch_status:8": "NORMAL_ITEM",
+                "regenAmount:3": 0,
+                "skin:8": "NONE",
+                "skinType:8": "STEVE",
+                "trait:8": "regeneration:boring"
+              }
+            },
             "OreDict:8": "",
-            "id:8": "minecraft:grass"
+            "id:8": "biomesoplenty:earth"
           },
           "ignoresview:1": 0,
           "ismain:1": 0,
@@ -5218,13 +5286,13 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "-- §aIMPORTANT INFORMATION§r --\n\nPlanet: §aEarth§r\nID: §a10§r\nDepth: §c64m§r\n-------------------------\n§4Dig 64 meters from sea level to access the second layer. Please be aware while traversing The Beneath, as it is very dangerous.\n\n§rThe Beneath refers to the deep, subterranean layers of the Earth\u0027s crust. These layers are composed of metamorphic rock. \n\nThe rocks found in The Beneath are formed from the intense pressure and heat that are present deep within the Earth\u0027s crust. Within The Beneath, you can find ores that have been hidden for millions of years. For example: §6anthracite§r, a rare type of coal.\n\nExploring The Beneath requires specialized equipment and expertise. Several §b§kWeeping Angels §r can also be found in the Beneath. They are extremely dangerous entities, so be extremely careful while exploring.\n\n",
+          "desc:8": "-- §aIMPORTANT INFORMATION§r --\n\nPlanet: §aEarth§r\nID: §a10§r\nDepth: §c64m§r\n\n-------------------------\n\n§4Dig 64 meters from sea level to access the second layer. Please be aware of your surroundings while traversing The Beneath, as it is very dangerous.\n\n§rThe Beneath refers to the deep, subterranean layers of the Earth\u0027s crust. These layers are composed of metamorphic rock. \n\nThe rocks found in The Beneath are formed from the intense pressure and heat that are present deep within the Earth\u0027s crust. Within The Beneath, you can find ores that have been hidden for millions of years. For example: §6anthracite§r, a rare type of coal.\n\nExploring The Beneath requires specialized equipment and expertise. Several §b§kWeeping Angels §r can also be found in the Beneath. They are extremely dangerous entities, so be extremely careful while exploring.\n\n",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "Damage:2": 0,
+            "Damage:2": 3,
             "OreDict:8": "",
-            "id:8": "susy:susy_stone_cobble"
+            "id:8": "susy:susy_stone_smooth"
           },
           "ignoresview:1": 0,
           "ismain:1": 0,
@@ -5269,7 +5337,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "-- §aIMPORTANT INFORMATION§r --\n\nPlanet: §aEarth§r\nID: §a-1§r\nDepth: §c320m§r\n-------------------------\n§4Dig down to the bottom of the Beneath to access this dimension.§r\n\n§3§4§lWARNING: Water buckets do not work at high temperatures. Tanks may be used to transport fluid here instead.",
+          "desc:8": "-- §aIMPORTANT INFORMATION§r --\n\nPlanet: §aEarth§r\nID: §a-1§r\nDepth: §c320m§r\n\n-------------------------\n\n§4Dig down to the bottom of the Beneath to access this dimension.§r\n\n§3§4§lWARNING: Water buckets do not work at high temperatures. Tanks may be used to transport fluid here instead.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -5372,7 +5440,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §6lead–acid battery§r is the first type of rechargeable battery ever created. Compared to more powerful batteries, lead–acid batteries have relatively low energy density. But it\u0027s a start.\n\nCombining Cathodes and Anodes makes a Battery.\n",
+          "desc:8": "The §6Lead–Acid Battery§r is the first type of rechargeable battery ever created. Compared to more powerful batteries, Lead–Acid Batteries have relatively low energy density. But it\u0027s a start. \n\n3 Lead-Acid Batteries are a more energy-dense source of electricity than a full Steel Tank of Steam.\n\nCombining Cathodes and Anodes makes a Battery.\n\nYou can access better recipe to make Lead-Acid Battery with the §cLV assembler§r, which consumes 1 LV Battery Cell, 2 Lead Plates and 1 bucket of Sulfuric Acid.\n",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -5623,7 +5691,22 @@
           "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
-              "Count:3": 1,
+              "Count:3": 8,
+              "Damage:2": 360,
+              "ForgeCaps:10": {
+                "regeneration:arch:10": {
+                  "arch_status:8": "NORMAL_ITEM",
+                  "regenAmount:3": 0,
+                  "skin:8": "NONE",
+                  "skinType:8": "STEVE",
+                  "trait:8": "regeneration:boring"
+                }
+              },
+              "OreDict:8": "",
+              "id:8": "gregtech:meta_dust"
+            },
+            "1:10": {
+              "Count:3": 8,
               "Damage:2": 8100,
               "ForgeCaps:10": {
                 "regeneration:arch:10": {
@@ -5719,7 +5802,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§cThese should be your priorities for the first few days:\n\n§r- Get gravel\n- Get sticky resin\n- Get an axe\n- Chop a ton of wood\n- Make a shelter over a Copper or Tin vein\n- Get seeds from grass \n- Set up an indoor crop farm\n\nThere should also be some food rations which came in the drop pod. These should be enough to last a few days.\n",
+          "desc:8": "§cThese should be your priorities for the first few days:\n\n§r- Get gravel, your flint tools are necessary\n- Get sticky resin, it can be used in a super early-game torch recipe\n- Get an axe first, and then other tools\n- Chop a ton of wood\n- Make a shelter over a Copper or Tin vein\n- Get seeds from grass, the undetermined GTFO seeds can be crafted into any crop seed!\n- Set up an indoor crop farm with your newly obtained seeds\n\nThere should also be some food rations which came in the drop pod. These should be enough to last a few days.\n",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -5961,7 +6044,7 @@
     },
     "80:10": {
       "preRequisites:11": [
-        22
+        30
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -6500,7 +6583,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Convert 1 log into 4 §6planks§r. \n\nYou can then craft those planks into a §acrafting table§f.\n\n----------------------------------------\n§3WELCOME TO SUPERSYMMETRY!\n§r----------------------------------------\n- Explore your surroundings\n§r- Find shelter\n- Prepare for the winter\n- Acquire basic resources\n- Try not to die\n------------------------------------",
+          "desc:8": "Convert 1 log into 4 §6planks§r. \n\nYou can then craft those planks into a §acrafting table§f.\n\n----------------------------------------\n§3WELCOME TO SUPERSYMMETRY!\n§r----------------------------------------\n- Explore your surroundings\n§r- Find or build shelter\n- Prepare for the winter\n- Acquire basic resources\n- Try not to die\n------------------------------------",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -6692,7 +6775,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§7Coal §fcan be turned into §b§7Coal Coke§f, a fuel, §rand §btorches§,, sources of light. §rCoal block deposits are found in every biome.\n\n",
+          "desc:8": "§7Coal §fcan be turned into §b§7Coal Coke§f, a fuel, §rand §btorches§,, sources of light. §rCoal ore veins are found in every biome.\n\n",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -6772,7 +6855,7 @@
             "id:8": "gregtech:machine"
           },
           "ignoresview:1": 0,
-          "ismain:1": 1,
+          "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
           "name:8": "Wooden Multi Tank",
@@ -6901,7 +6984,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Iron buckets§r aren\u0027t available yet, so they must be made with clay. \n\nUse a §6Clay Tool §r[§aRight Click§r] on clay to get the bucket. Then smelt it in a furnace to fire it and get a §cCeramic Bucket§r.",
+          "desc:8": "Iron buckets§r aren\u0027t available yet, so they must be made with clay. \n\nUse a §6Clay Tool §r[§aRight Click§r] on clay to get the bucket. Make sure to then break it with a §6§6§6shovel§6§f, not your hand, or it will drop nothing.\n\nYou should also make sure it isn\u0027t a Clay Large or Clay Small Vessel first. \n\nAfter obtaining the bucket, smelt it in a furnace to fire it and get a §cCeramic Bucket§r.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -6960,6 +7043,12 @@
               "id:8": "notreepunching:clay_tool"
             },
             "1:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "notreepunching:pottery/bucket"
+            },
+            "2:10": {
               "Count:3": 1,
               "Damage:2": 0,
               "ForgeCaps:10": {
@@ -7182,7 +7271,7 @@
           "autoConsume:1": 0,
           "consume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "partialMatch:1": 1,
           "requiredItems:9": {
@@ -7211,8 +7300,8 @@
                   "AttackSpeed:5": -3.2,
                   "Durability:3": 0,
                   "HarvestLevel:3": 1,
-                  "Material:8": "flint",
-                  "MaxDurability:3": 64,
+                  "Material:8": "gregtech:flint",
+                  "MaxDurability:3": 63,
                   "ToolSpeed:5": 2.0
                 },
                 "HideFlags:3": 2
@@ -7242,8 +7331,8 @@
                   "AttackSpeed:5": -2.8,
                   "Durability:3": 0,
                   "HarvestLevel:3": 1,
-                  "Material:8": "flint",
-                  "MaxDurability:3": 64,
+                  "Material:8": "gregtech:flint",
+                  "MaxDurability:3": 63,
                   "ToolSpeed:5": 4.0
                 },
                 "HideFlags:3": 2
@@ -7307,7 +7396,14 @@
       }
     },
     "98:10": {
-      "preRequisites:11": [],
+      "preRequisiteTypes:7": [
+        0,
+        2
+      ],
+      "preRequisites:11": [
+        67,
+        70
+      ],
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
@@ -7769,7 +7865,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Combining §6Slaked Lime§r, §7Flint Dust§r, §6Sand Dust§r and §7Clay Balls (dusts can be made using a Mortar) will create §6Fireclay Mix§r.\n\nFireclay Mix can be turned into Compressed Fireclay by using a brick form. ",
+          "desc:8": "Combining §6Slaked Lime§r, §7Flint Dust§r, §6Sand Dust§r and §7Clay Balls (dusts can be made using a Flint Mortar) will create §6Fireclay Mix§r.\n\nFireclay Mix can be turned into Compressed Fireclay by using a brick form. ",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -7869,7 +7965,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Compressed Fireclay §rmust be smelted in a Furnace to turn it into §6Firebricks§r.\n\nFirebricks need to be crafted into blocks to be used in the construction of a Blast Furnace. 32 Firebricks are required for a Primitive Blast Furnace.",
+          "desc:8": "§6Compressed Fireclay §rmust be smelted in a Furnace to turn it into §6Firebricks§r.\n\nFirebricks need to be crafted into blocks to be used in the construction of a Blast Furnace. 32 Firebrick blocks are required for a Primitive Blast Furnace.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -8398,7 +8494,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Combining §6Mud Balls§r, a §6Pile of Sand§r, §6Clay Dust §rand §aStraw§r (obtained from Plant Fibers) will create §6Mudbrick Mix§\n.\n\nMudbricks are §6not required §rfor progressing to the Industrial Age, however they can be used for constructing a §6Primitive Baking Oven§r.",
+          "desc:8": "Combining §6Mud Balls§r, a §6Fine pile of Sand§r, §6Clay Dust §rand §aStraw§r (obtained from Plant Fibers) will create §6Mudbrick Mix§\n.\n\nMudbricks are §6not required §rfor progressing to the Industrial Age, however they can be used for constructing a §6Primitive Baking Oven§r.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -8468,7 +8564,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Compressing §5§6Mudbrick Mix§r using a Brick Form creates Mud Bricks. Smelting them in a Furnace creates §6Adobe Bricks§r.\n\nAdobe Bricks need to be combined into blocks to be used in construction.",
+          "desc:8": "Compressing §5§6Mudbrick Mix§r using a Brick Wooden Form creates Mud Bricks. Smelting them in a Furnace creates §6Adobe Bricks§r.\n\nAdobe Bricks need to be combined into blocks to be used in construction.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -8498,11 +8594,41 @@
           "autoConsume:1": 0,
           "consume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
+              "Count:3": 4,
+              "Damage:2": 43,
+              "ForgeCaps:10": {
+                "regeneration:arch:10": {
+                  "arch_status:8": "NORMAL_ITEM",
+                  "regenAmount:3": 0,
+                  "skin:8": "NONE",
+                  "skinType:8": "STEVE",
+                  "trait:8": "regeneration:boring"
+                }
+              },
+              "OreDict:8": "",
+              "id:8": "gregtechfoodoption:gtfo_meta_item"
+            },
+            "1:10": {
+              "Count:3": 4,
+              "Damage:2": 44,
+              "ForgeCaps:10": {
+                "regeneration:arch:10": {
+                  "arch_status:8": "NORMAL_ITEM",
+                  "regenAmount:3": 0,
+                  "skin:8": "NONE",
+                  "skinType:8": "STEVE",
+                  "trait:8": "regeneration:boring"
+                }
+              },
+              "OreDict:8": "",
+              "id:8": "gregtechfoodoption:gtfo_meta_item"
+            },
+            "2:10": {
               "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": "",
@@ -8909,7 +9035,7 @@
           "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
-              "Count:3": 16,
+              "Count:3": 15,
               "Damage:2": 0,
               "OreDict:8": "",
               "id:8": "gregtechfoodoption:gtfo_casing"
@@ -9140,7 +9266,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Pig iron§r is the product of smelting iron ore (such as §6Banded Iron§r and §6Magnetite§o§r) with a high-carbon fuel like §6Coal§r, Charcoal or Coal Coke in a Blast Furnace. §6Limonite §rcan also be used as an ore, but it has to be smelted in a normal Furnace first, or dried by using a Dryer.\n\nExtracting usable metal from iron ores requires kilns or furnaces (such as a §cBlast Furnace§r) capable of reaching 1,500 °C (1,773K) or higher, about 500 °C higher than that required to smelt copper. \n\n§6Pig iron §rmust be smelted in a normal Furnace to get §8§7Iron§r. \n\n§cIt is recommended to use dusts instead of ores while smelting Iron. If you can\u0027t macerate ores into dusts, look into the Grindstone.",
+          "desc:8": "§6Pig Iron§r is the product of smelting iron ore (such as §6Banded Iron§r and §6Magnetite§o§r) with a high-carbon fuel like §6Coal§r, Charcoal, Anthracite, or Coal Coke in a Blast Furnace. §6Limonite §rcan also be used as an ore, but it has to be smelted in a normal Furnace first, or dried by using a Dryer.\n\nThe next step is to make §7§f§7§7§r§7Wrought Iron§ §f out of this Pig Iron, which will be explained in the next quest.\n\nExtracting usable metal from iron ores requires kilns or furnaces (such as a §cBlast Furnace§r) capable of reaching 1,500 °C (1,773K) or higher, about 500 °C higher than that required to smelt copper. \n\n§\n§cIt is recommended to use dusts instead of ores while smelting Iron. If you can\u0027t macerate ores into dusts, look into the Grindstone.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -9184,7 +9310,7 @@
           "partialMatch:1": 1,
           "requiredItems:9": {
             "0:10": {
-              "Count:3": 1,
+              "Count:3": 16,
               "Damage:2": 8115,
               "ForgeCaps:10": {
                 "regeneration:arch:10": {
@@ -10409,7 +10535,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §6Steam Grinder§r is a multi machine that can macerate§6 8 Ores §rat once instead of 1. It runs on steam power.\n\nBuilding a Steam Grinder requires:\n1x Steam Grinder Controller\n1x Steam Input Bus\n1x Steam Hatch\n1x Steam Output Bus\n22x Bronze Machine Casing\n\nCheck JEI for more info on the structure.\nItems should be put into the Input Bus, ready to be processed. They will come out of the Output Bus.",
+          "desc:8": "The §6Steam Grinder§r is a multi machine that can macerate§6 8 items §rat once instead of 1, but the recipe time for each time is multiplied by 150% This means that the §cSteam Grinder§r is §68/3§r, or §62.3333§r times faster than the §cLV macerator§r. Also, just like the §6Steam/LV/MV Macerator§r, the §6§cSteam Grinder§r does not output byproducts.\n\nIt runs on steam power.\n\nBuilding a Steam Grinder requires:\n1x Steam Grinder Controller\n1x Steam Input Bus\n1x Steam Hatch\n1x Steam Output Bus\n22x Bronze Machine Casing\n\nCheck JEI for more info on the structure.\n\nItems should be put into the Input Bus, ready to be processed. They will come out of the Output Bus.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -10545,7 +10671,7 @@
                 "trait:8": "regeneration:boring"
               }
             },
-            "OreDict:8": "ingotLead",
+            "OreDict:8": "",
             "id:8": "gregtech:meta_ingot"
           },
           "ignoresview:1": 0,
@@ -10586,7 +10712,7 @@
                   "trait:8": "regeneration:boring"
                 }
               },
-              "OreDict:8": "ingotLead",
+              "OreDict:8": "",
               "id:8": "gregtech:meta_ingot"
             }
           },
@@ -10753,7 +10879,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Lead Drums can handle §6acids§r, which is not something that the other drums can do. Acid is corrosive and would destroy the bronze and steel used in normal drums.",
+          "desc:8": "Lead and Gold Drums can handle §6acids§r, which is not something that other drums can do. Acid is corrosive and would destroy the bronze and steel used in normal drums.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -10765,7 +10891,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "Lead Drums",
+          "name:8": "Non-corrosive Drums",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -10790,6 +10916,12 @@
             "0:10": {
               "Count:3": 1,
               "Damage:2": 14553,
+              "OreDict:8": "",
+              "id:8": "gregtech:machine"
+            },
+            "1:10": {
+              "Count:3": 1,
+              "Damage:2": 1617,
               "OreDict:8": "",
               "id:8": "gregtech:machine"
             }
@@ -10921,11 +11053,8 @@
       }
     },
     "156:10": {
-      "preRequisiteTypes:7": [
-        2
-      ],
       "preRequisites:11": [
-        150
+        25
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -11096,7 +11225,7 @@
     },
     "157:10": {
       "preRequisites:11": [
-        22
+        30
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -13169,7 +13298,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §3Crafting Station§r is a highly advanced Crafting Table§r, with inventory slots for item and tools.\n\nPut the recipes in the table either by dropping ghost items, or using the §a+§r in §2JEI§r. \n\nCrafting the items will use the items and tools in the inventory of the table. The 9 slots on the right are saved up recipes so you can re-use them without re-opening §2JEI§r.\n\nThe §3Crafting Station§r can use §6adjacent inventories§r in addition to its own inventory. ",
+          "desc:8": "The §3Crafting Station§r is a highly advanced Crafting Table§r, with inventory slots for item and tools.\n\nPut the recipes in the table either by dropping ghost items, or using the §a+§r in §2JEI§r. \n\nCrafting the items will use the items and tools in the inventory of the table. The 9 slots on the right are saved up recipes so you can re-use them without re-opening §2JEI§r.\n\nThe §3Crafting Station§r can use §6adjacent inventories§r (such as chests, drawers, and storage racks) in addition to its own inventory. ",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -14635,7 +14764,7 @@
     },
     "208:10": {
       "preRequisites:11": [
-        22
+        25
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -14772,8 +14901,8 @@
     },
     "210:10": {
       "preRequisites:11": [
-        22,
-        418
+        418,
+        25
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -15125,7 +15254,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§2Chisel§r is well known for being the miraculous tool that can turn entire warehouses full of worthless cobble into decent looking building material. Every vanilla block, a few common metal blocks, and the blocks added by this specific mod can all be chiseled. §eSamples are shown in the following quests. §r\n\nThe normal §6Chisel§r can:\n- Chisel directly through the chisel GUI \n- Cycle chisel by §aleft-clicking§r eligible block when the chisel inventory is empty\n- Set block to chisel by §aleft-clicking§r when block of same type and particular chisel is in the chisel inventory\n\nThe §e§r§6Steel Chisel§r can also do chisel in-world blocks in an area.\n\nThe §6iChisel§r has 2 more area options than the Steel Chisel, more versatile inventory chiseling, and the ability to preview the selected chisel pattern in different patterns. \n\nFor now, making a normal §6Chisel§r shall suffice.\n",
+          "desc:8": "§2Chisel§r is well known for being the miraculous tool that can turn entire warehouses full of worthless cobble into decent looking building material. Every vanilla block, a few common metal blocks, and the blocks added by this specific mod can all be chiseled. §eSamples are shown in the following quests. §r\n\nThe normal §6Chisel§r can:\n- Chisel directly through the chisel GUI \n- Cycle chisel by §aleft-clicking§r eligible block when the chisel inventory is empty\n- Set block to chisel by §aleft-clicking§r when block of same type and particular chisel is in the chisel inventory\n\nThe §e§r§6Steel Chisel§r can also chisel in-world blocks in an area.\n\nThe §6iChisel§r has 2 more area options than the Steel Chisel, more versatile inventory chiseling, and the ability to preview the selected chisel pattern in different patterns. \n\nFor now, making a normal §6Chisel§r shall suffice.\n",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -15143,7 +15272,7 @@
             "id:8": "chisel:chisel_iron"
           },
           "ignoresview:1": 0,
-          "ismain:1": 1,
+          "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
           "name:8": "Millions Must Chisel",
@@ -24759,7 +24888,8 @@
     "369:10": {
       "preRequisites:11": [
         222,
-        686
+        686,
+        787
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -24824,7 +24954,7 @@
             },
             "4:10": {
               "Count:3": 1,
-              "Damage:2": 1226,
+              "Damage:2": 16001,
               "OreDict:8": "",
               "id:8": "gregtech:machine"
             }
@@ -25414,7 +25544,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "The §bMining Drill§r mines§6 nearly infinite rocks§r from a §6deposit block§r. It mines one rock per second while running at LV.\n\nThese rocks are not like normal ores because they have to be §csorted first using an Ore Sorter§r.\n\nWhile building the Mining Drill, §c§lthe Steel Drill Head must be exactly on top of the deposit block.§r You have to find a deposit in the world and place the drill on top of it.\n\nThere are 7 different types of deposits: orthomagmatic, magmatic-hydrothermal, hydrothermal, sedimentary, alluvial, metamorphic and residual. For more info, check JEI.\n\n§6\nThe Mining Drill requires:\n- 1 Mining Drill\n- 1 Maintenance Hatch\n- 1 Output Bus\n- 1 Output Hatch\n- 1 Input Bus\n- 1 Input Hatch\n- 1 Energy Hatch\n- 1 Steel Drill Head\n- 278 Steel Frame Box\n- 312 Light Concrete\n- 35 Grate Machine Casing\n- 52 Steel Gearbox Casing\n- 92 Solid Steel Machine Casing\n- 28 Steel Pipe Casing\n\n§rDue to the over 1,000 steel required to build this machine, you should set up an arc furnace and EBF setup for smelting steel more quickly. Also check the §6Better Building §rchapter for info on making concrete.",
+          "desc:8": "The §bMining Drill§r mines§6 nearly infinite rocks§r from a §6deposit block§r. It mines one rock per second while running at LV.\n\nThese rocks are not like normal ores because they have to be §csorted first using an Ore Sorter§r.\n\nWhile building the Mining Drill, §c§lthe Steel Drill Head must be exactly on top of the deposit block.§r You have to find a deposit in the world and place the drill on top of it.\n\nThere are 7 different types of deposits: orthomagmatic, magmatic-hydrothermal, hydrothermal, sedimentary, alluvial, metamorphic and residual. For more info, check JEI.\n\n§6\nThe Mining Drill requires:\n- 1 Mining Drill\n- 1 Maintenance Hatch\n- 1 Output Bus\n- 1 Output Hatch\n- 1 Input Bus\n- 1 Input Hatch\n- 1 Energy Hatch\n- 1 Steel Drill Head\n- 278 Steel Frame Box\n- 312 Light Concrete\n- 35 Grate Machine Casing\n- 52 Steel Gearbox Casing\n- 92 Solid Steel Machine Casing\n- 28 Steel Pipe Casing\n\n§fDue to the cost of almost §o1,000§r steel required to build this machine, you should construct a double Electric Blast Furnace setup that converts banded iron/magnetite into steel, to smelt steel more quickly. Also check the §6Sintering Oven §fquests in this chapter for info on making concrete.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -25643,7 +25773,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Coal Tar §rcan be distilled from §6coal§r, charcoal and anthracite and it can be used as a fuel in the §6Large LV Gas Turbine§r. It can also be distilled to produce toluene, for explosives.",
+          "desc:8": "§6§6Coal Tar §rcan be distilled from §6Coal§r,§r §e§2§3§4§6§6§8§6Charcoal §rand §6Anthracite§r in a §6§cPyrolyse Oven§r. §7§6Coal Tar§6§r can be distilled into §6Anthracene Oi§6§r§6l§r, §6Naphthalene Oil§r, §6Light Oil§r, and §6Creosote§r. §6Light Oil§r will be your early game source of §6Benzene§r and §6Toluene§r. Check §eJEI§r for more infomation on how to get §6Toluene§r from §6Light Oil§r. ",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -25684,7 +25814,7 @@
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
-          "consume:1": 1,
+          "consume:1": 0,
           "groupDetect:1": 0,
           "ignoreNBT:1": 0,
           "index:3": 0,
@@ -26754,7 +26884,7 @@
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
-          "consume:1": 1,
+          "consume:1": 0,
           "groupDetect:1": 0,
           "ignoreNBT:1": 0,
           "index:3": 0,
@@ -27644,7 +27774,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Benzene §rcan be used as a source of power in the §cLarge Gas Turbine§r. It can be §cdistilled §rout of Coal Tar.",
+          "desc:8": "Although §6Benzene §rcan be used as a source of power in the §cLarge Gas Turbine§r, §6Benzene§r is not recommended as a viable power source. \n\nYeah, the title is kinda misleading, as unlike other GregTech packs, the only way to get §6Benzene§r before §d§5EV§r is from §6§rprocessing§r §6Coal Tar.§r This route has very low yields however.\n\nIf you still want to get plentiful amount of §6Benzene§r, the §cCatalytic Reformer§c§r §6§rcan §ttransform §6Naphtha§r into §6Naphtha Refornate§r, a feedstock for §6B.T.E.X§r. \n\nBy that point however, you would have unlocked better fuel sources derived from oil. ",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -27669,7 +27799,7 @@
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "Church of Benzene",
+          "name:8": "Church of Benzene?",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -27861,7 +27991,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Coal Gas §rcan be used as a source of power in the §cLarge Gas Turbine§r. It can be §cobtained with the Pyrolyse Oven§r.",
+          "desc:8": "§6Coal Gas §rcan be used as a source of power in the §cLarge Gas Turbine§r. It can be §c§fobtained with the §cPyrolyse Oven§r.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -29600,8 +29730,8 @@
     "438:10": {
       "preRequisites:11": [
         66,
-        787,
-        369
+        369,
+        787
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -31386,7 +31516,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Trains created by the Railroad Engineering Station are too large to function on Minecraft\u0027s vanilla Rails. Which is why you\u0027ll need Immersive Railroading\u0027s Tracks.\n\nTracks can be placed by right clicking a Track Blueprint on the ground while having some Wooden Planks of any type and Rail Segments in your inventory. Doing so will create a track about 10 meters in length, which will consume several Planks and Segments from your inventory, so make sure you carry quite a few stacks of those with you when you\u0027re laying track.\n\nRight clicking a Track Blueprint while not looking at any block will open a menu allowing you to customize your Tracks. You can change things like the curvature of the track, the rail bed, length, and so on. More documentation on this can be found here:\n§9https://github.com/TeamOpenIndustry/ImmersiveRailroading/wiki/Track-Blueprint",
+          "desc:8": "Trains created by the Railroad Engineering Station are too large to function on Minecraft\u0027s vanilla Rails. Which is why you\u0027ll need Immersive Railroading\u0027s Tracks.\n\nTracks can be placed by right clicking a Track Blueprint on the ground while having some Stone of any type and Rail Segments in your inventory. Doing so will create a track 10 meters in length (can be varied), which will consume several Stone blocks and Segments from your inventory, so make sure you carry quite a few stacks of those with you when you\u0027re laying track.\n\nRight clicking a Track Blueprint while not looking at any block will open a menu allowing you to customize your Tracks. You can change things like the curvature of the track, the rail bed, length, and so on. More documentation on this can be found here:\n§9https://github.com/TeamOpenIndustry/ImmersiveRailroading/wiki/Track-Blueprint",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -31465,8 +31595,8 @@
             "2:10": {
               "Count:3": 64,
               "Damage:2": 0,
-              "OreDict:8": "plankWood",
-              "id:8": "minecraft:planks"
+              "OreDict:8": "stoneSmooth",
+              "id:8": "minecraft:stone"
             }
           },
           "taskID:8": "bq_standard:retrieval"
@@ -32689,7 +32819,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§7Vinyl Chloride §rcan be diluted with §9Water §rto make a §7Vinyl Chloride Solution§r.",
+          "desc:8": "§7Vinyl Chloride §rcan be diluted with §9Water §rto make a §7Vinyl Chloride Suspension§r.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -32737,10 +32867,7 @@
           "requiredFluids:9": {
             "0:10": {
               "Amount:3": 1000,
-              "FluidName:8": "betterquesting.placeholder",
-              "Tag:10": {
-                "orig_id:8": "vinyl_chloride_solution"
-              }
+              "FluidName:8": "vinyl_chloride_suspension"
             }
           },
           "taskID:8": "bq_standard:fluid"
@@ -32809,10 +32936,7 @@
           "requiredFluids:9": {
             "0:10": {
               "Amount:3": 1000,
-              "FluidName:8": "betterquesting.placeholder",
-              "Tag:10": {
-                "orig_id:8": "vinyl_chloride_solution"
-              }
+              "FluidName:8": "potassium_bisulfate"
             }
           },
           "taskID:8": "bq_standard:fluid"
@@ -33706,7 +33830,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Iron, Silicon and Coke §rcan be combined to get ferrosilicon, a material needed for stainless steel.",
+          "desc:8": "§6Iron, Silicon Dioxide §fand §6Coke Dust/Carbon Dust §rcan be combined to get §0§2§1§4§5§8Ferrosilicon§r, a material needed for §7Stainless Steel§r.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -33921,7 +34045,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Combine §6Ferrosilicon§r, §cFerrochromium§r, §7Carburized Stainless Steel§r, §aFluorite§r §rand §6Quicklime §rto get Stainless Steel. This process is done in an EBF at 480 EU/t and it produces §cmolten §rstainless steel. \n\nIt has to be run through a §6Fluid Solidifier §rbefore actually using it.",
+          "desc:8": "Combine §6Ferrosilicon§r, §cFerrochromium§r, §7Carburized Stainless Steel§r, §aFluorite§r §rand §6Quicklime §rto get Stainless Steel. This process is done in an EBF at 120 EU/t and it produces §cmolten §rstainless steel. \n\nIt has to be run through a §6Fluid Solidifier §rbefore actually using it.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -34057,7 +34181,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Pyrolusite §rcan be smelted in an EBF with Coke to make §6Small Piles of Manganese§r.",
+          "desc:8": "§6Pyrolusite §rcan be smelted in an EBF with a §1§3Carbon Source (Coal, Charcoal, Anthracite, Coal Coke, or raw Carbon)§r to get §6Manganee dust.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -34113,7 +34237,7 @@
                 }
               },
               "OreDict:8": "",
-              "id:8": "gregtech:meta_dust_small"
+              "id:8": "gregtech:meta_dust"
             }
           },
           "taskID:8": "bq_standard:retrieval"
@@ -34686,7 +34810,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§6Zinc §rneeds to be roasted to make §7Zincite§r.\n\n§dRhodochrosite §rneeds to be roasted to make §4Manganese II Oxide§r.\n\nCombine both of them with §4Purified Iron III Oxide §rto make §6Manganese Zinc Ferrite§r.",
+          "desc:8": "§6Zinc §rneeds to be roasted to make §7Zinc Oxide§r.\n\n§dRhodochrosite §rneeds to be roasted to make §4Manganese II Oxide§r.\n\nCombine both of them with §4Purified Iron III Oxide §rto make §6Manganese Zinc Ferrite§r.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -38389,7 +38513,7 @@
             }
           },
           "ignoresview:1": 0,
-          "ismain:1": 1,
+          "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
           "name:8": "Storage Drawers",
@@ -38476,7 +38600,7 @@
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
-          "consume:1": 1,
+          "consume:1": 0,
           "groupDetect:1": 0,
           "ignoreNBT:1": 0,
           "index:3": 0,
@@ -38543,7 +38667,23 @@
           "ignoreNBT:1": 0,
           "index:3": 0,
           "partialMatch:1": 1,
-          "requiredItems:9": {},
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 80,
+              "ForgeCaps:10": {
+                "regeneration:arch:10": {
+                  "arch_status:8": "NORMAL_ITEM",
+                  "regenAmount:3": 0,
+                  "skin:8": "NONE",
+                  "skinType:8": "STEVE",
+                  "trait:8": "regeneration:boring"
+                }
+              },
+              "OreDict:8": "",
+              "id:8": "gregtech:meta_catalyst_bed"
+            }
+          },
           "taskID:8": "bq_standard:retrieval"
         }
       }
@@ -47731,7 +47871,7 @@
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
-          "consume:1": 1,
+          "consume:1": 0,
           "groupDetect:1": 0,
           "ignoreNBT:1": 0,
           "index:3": 0,
@@ -48113,7 +48253,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "§lIMPORTANT: YOU DO NOT NEED TO AUTOMATE THIS, THIS IS A ONE TIME PROCESS AS YOU CAN RECYCLE P.F.O.A.\n\n3000L §6N-octanol §r+ 16 Chromium Trioxide Dust + 6000L Sulfuric Acid --\u003e 3000L §6Caprylic (octanoic) acid§r + 1000L §6Chromium Sulfate Solution§r in a §cBatch Reactor§r.\n\n50L §6Caprylic acid§r + 50L §6Thionyl Chloride§r §c--\u003e§r 50L §6Diluted Octanoyl Chloride §r+ 50L Sulfur Dioxide + 50L Hydrogen Chloride\n\n3000L §6Diluted Octanoyl Chloride§r, when §cdistilled§r, will produce 1000L of §6Octanoyl Chloride§r, 1000L of Water, and 1000L of Pyridine.\n\n50L of§6 Octanoyl Chloride§r + 750L of Hydrofluoric Acid§c --\u003e §r800L of §6Fluorinated Octanoyl Chloride§r + 750L Hydrogen + 750L water\n\n§cDistillation§r of 16000L Fluorinated Octanoyl Chloride will produce 2400L of§6 Perfluorooctanoyl Fluoride§r. §cReact 1:1 with water§r to produce §6PFOA solution§r, which is further §cdistilled§r§r.",
+          "desc:8": "§lIMPORTANT: YOU DO NOT NEED TO AUTOMATE THIS, THIS IS A ONE TIME PROCESS AS YOU CAN RECYCLE P.F.O.A.\n\n\n§l§r1500L §6N-octanol §r+ 8 Chromium Trioxide Dust + 3000L Sulfuric Acid + 500L Acetone --\u003e 1500L §6Caprylic (octanoic) acid§r + 500L §6Chromium Sulfate Solution§r in a §cBatch Reactor§r.\n\n1000L §6Caprylic acid§r + 1000L §6Thionyl Chloride§r --\u003e 1000L §6Octanoyl Chloride §r+ 1000L Sulfur Dioxide + 1000L Hydrogen Chloride\n\n1000L of§6 Octanoyl Chloride§r + 15000L of Hydrofluoric Acid§c §f--\u003e §r1000L of §6Fluorinated Octanoyl Chloride§r + 15000L Hydrogen using a cobalt and nickel plate as an electrode.\n\n§cDistillation§r of 1000L Fluorinated Octanoyl Chloride will produce 150L of§6 Perfluorooctanoyl Fluoride§r. §cReact 1:1 with water§r to produce §6PFOA solution§r, which is further §cdistilled§r§r.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -48667,7 +48807,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "If you have §7Oil§f and don\u0027t feel like using §6Ethanol§f to create §cEthylene,§f then check this out.\n\nChemicals like §6ethane §rand §6propane§f are obtained from distilling desulfurized oil fractions.\n\nThese chemicals can be roasted with §7steam §rto create Steam Cracked fractions, which can be distilled down to §6ethylene§r.",
+          "desc:8": "If you have §7Oil§f and don\u0027t feel like using §6Ethanol§f to create §cEthylene,§f then check this out.\n\nChemicals like §6Ethane §rand §6Propane§f are obtained from distilling desulfurized oil fractions. \n\nThese chemicals can be roasted with §7Steam §rto create Steam Cracked fractions, which can be distilled down to §6Ethylene§r.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -53891,7 +54031,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "XNet systems are a powerful tool for early game automation.",
+          "desc:8": "XNet systems are a powerful tool for early game automation. For more infomation on how to use XNet, I suggest searching XNet guides on §cYouTube§r, as they will be more capable of explaining the systems than a questbook.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -53952,7 +54092,7 @@
             "id:8": "rftools:modular_storage"
           },
           "ignoresview:1": 0,
-          "ismain:1": 1,
+          "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
           "name:8": "Modular Storage",
@@ -54202,7 +54342,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "A Fluidized Bed Reactor allows you to create §dPolydimethylsiloxane,§f which can be vulcanized to create §cSilicone Rubber.§f\n\nIt can do all the things that Rubber can in recipes, but at a lower cost in assembling recipes.\n\nIn case you missed it, §6Styrene-Butadiene Rubber§f is the other higher tier rubber available at HV.\n\nThe items required are §6Chloromethane §r(you should already have this), Copper Oxide and Silicon, as well as Potassium Persulfate. Since we\u0027re now in HV, the quests will no longer list every single step in a chemical process. ",
+          "desc:8": "A Fluidized Bed Reactor allows you to create §dPolydimethylsiloxane,§f which can be vulcanized to create §cSilicone Rubber.§f\n\nIt can do all the things that Rubber can in recipes, but at a lower cost in assembling recipes.\n\nIn case you missed it, §6Styrene-Butadiene Rubber§f is the other higher tier rubber available at HV.\n\nYou can produce silicone rubber by reacting silicon and chloromethane with a cuprous oxide catalyst. This can be distilled into various components, including dimethyldichlorosilane. This is reacted with water to polymerize into polydimethylsiloxane, which undergoes further processing to remove any HCl generated. This can then be cured using di-tert-butyl peroxide and silica to produce silicone rubber.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -55342,7 +55482,7 @@
           "autoConsume:1": 0,
           "consume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "partialMatch:1": 1,
           "requiredItems:9": {
@@ -55457,7 +55597,7 @@
           "autoConsume:1": 0,
           "consume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "partialMatch:1": 1,
           "requiredItems:9": {
@@ -55572,7 +55712,7 @@
           "autoConsume:1": 0,
           "consume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "partialMatch:1": 1,
           "requiredItems:9": {
@@ -55974,8 +56114,13 @@
       }
     },
     "739:10": {
+      "preRequisiteTypes:7": [
+        0,
+        2
+      ],
       "preRequisites:11": [
-        30
+        67,
+        70
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -55984,15 +56129,15 @@
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "Damage:2": 8,
+            "Damage:2": 2,
             "OreDict:8": "",
-            "id:8": "techguns:simplemachine"
+            "id:8": "chisel:endstone1"
           },
           "ignoresview:1": 0,
           "ismain:1": 0,
           "issilent:1": 0,
           "lockedprogress:1": 0,
-          "name:8": "Camo Bench",
+          "name:8": "Venus",
           "questlogic:8": "AND",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
@@ -56005,18 +56150,7 @@
       },
       "questID:3": 739,
       "rewards:9": {},
-      "tasks:9": {
-        "0:10": {
-          "autoConsume:1": 0,
-          "consume:1": 0,
-          "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
-          "index:3": 0,
-          "partialMatch:1": 1,
-          "requiredItems:9": {},
-          "taskID:8": "bq_standard:retrieval"
-        }
-      }
+      "tasks:9": {}
     },
     "740:10": {
       "preRequisites:11": [
@@ -58559,7 +58693,8 @@
     },
     "775:10": {
       "preRequisites:11": [
-        788
+        788,
+        169
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -59249,13 +59384,12 @@
     },
     "786:10": {
       "preRequisites:11": [
-        243,
         580
       ],
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Ideal power production methods for MV.",
+          "desc:8": "Ideal power production methods for §6MV§f.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -59289,13 +59423,12 @@
     },
     "787:10": {
       "preRequisites:11": [
-        31,
         580
       ],
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Ideal power production methods for LV.",
+          "desc:8": "Ideal power generation methods for §6Steam age §fand §7LV§f.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -59322,33 +59455,19 @@
       "rewards:9": {},
       "tasks:9": {
         "0:10": {
-          "autoConsume:1": 0,
-          "consume:1": 0,
-          "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
           "index:3": 0,
-          "partialMatch:1": 1,
-          "requiredItems:9": {
-            "0:10": {
-              "Count:3": 1,
-              "Damage:2": 986,
-              "OreDict:8": "",
-              "id:8": "gregtech:machine"
-            }
-          },
-          "taskID:8": "bq_standard:retrieval"
+          "taskID:8": "bq_standard:checkbox"
         }
       }
     },
     "788:10": {
       "preRequisites:11": [
-        479,
         580
       ],
       "properties:10": {
         "betterquesting:10": {
           "autoclaim:1": 0,
-          "desc:8": "Ideal power production methods for HV.",
+          "desc:8": "Ideal power production methods for §eHV§f.",
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -60146,7 +60265,7 @@
           "issilent:1": 0,
           "lockedprogress:1": 0,
           "name:8": "Molybdenum Purification",
-          "questlogic:8": "AND",
+          "questlogic:8": "OR",
           "repeat_relative:1": 1,
           "repeattime:3": -1,
           "simultaneous:1": 0,
@@ -62181,6 +62300,1214 @@
           "taskID:8": "bq_standard:retrieval"
         }
       }
+    },
+    "830:10": {
+      "preRequisiteTypes:7": [
+        0,
+        2
+      ],
+      "preRequisites:11": [
+        67,
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 5,
+            "OreDict:8": "",
+            "id:8": "minecraft:stone"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Mercury",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 830,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "831:10": {
+      "preRequisiteTypes:7": [
+        2,
+        2
+      ],
+      "preRequisites:11": [
+        67,
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "gregtech:borderless_white_lamp"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Sol",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 831,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "832:10": {
+      "preRequisiteTypes:7": [
+        0,
+        2
+      ],
+      "preRequisites:11": [
+        67,
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 4,
+            "OreDict:8": "",
+            "id:8": "gregtech:stone_smooth"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Saturn",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 832,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "833:10": {
+      "preRequisiteTypes:7": [
+        0,
+        2
+      ],
+      "preRequisites:11": [
+        67,
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 7,
+            "OreDict:8": "",
+            "id:8": "chisel:limestone2"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Pluto",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 833,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "834:10": {
+      "preRequisiteTypes:7": [
+        0,
+        2
+      ],
+      "preRequisites:11": [
+        67,
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "biomesoplenty:hard_ice"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Uranus",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 834,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "835:10": {
+      "preRequisiteTypes:7": [
+        0,
+        2
+      ],
+      "preRequisites:11": [
+        67,
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 15,
+            "OreDict:8": "",
+            "id:8": "chisel:sandstoneyellow"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Jupiter",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 835,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "836:10": {
+      "preRequisiteTypes:7": [
+        0,
+        2
+      ],
+      "preRequisites:11": [
+        67,
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:packed_ice"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Neptune",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 836,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "837:10": {
+      "preRequisites:11": [
+        835
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 5,
+            "OreDict:8": "",
+            "id:8": "chisel:diorite1"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Europa",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 837,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "838:10": {
+      "preRequisites:11": [
+        835
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 12,
+            "OreDict:8": "",
+            "id:8": "littletiles:ltcoloredblock"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Io",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 838,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "839:10": {
+      "preRequisites:11": [
+        835
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 7,
+            "OreDict:8": "",
+            "id:8": "chisel:andesite"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Ganymede",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 839,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "840:10": {
+      "preRequisites:11": [
+        835
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "minecraft:gray_glazed_terracotta"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Callisto",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 840,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "841:10": {
+      "preRequisites:11": [
+        832
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 10,
+            "OreDict:8": "",
+            "id:8": "chisel:stonebrick"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Mimas",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 841,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "842:10": {
+      "preRequisites:11": [
+        832
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "quark:snow_bricks"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Enceladus",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 842,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "843:10": {
+      "preRequisites:11": [
+        832
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 10,
+            "OreDict:8": "",
+            "id:8": "chisel:certus"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Tethys",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 843,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "844:10": {
+      "preRequisites:11": [
+        832
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 7,
+            "OreDict:8": "",
+            "id:8": "chisel:marble2"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Dione",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 844,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "845:10": {
+      "preRequisites:11": [
+        834
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "chisel:diorite"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Miranda",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 845,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "846:10": {
+      "preRequisites:11": [
+        834
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "susy:susy_stone_smooth"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Ariel",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 846,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "847:10": {
+      "preRequisites:11": [
+        834
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 5,
+            "OreDict:8": "",
+            "id:8": "susy:susy_stone_smooth"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Umbriel",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 847,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "848:10": {
+      "preRequisites:11": [
+        834
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 7,
+            "OreDict:8": "",
+            "id:8": "chisel:basalt2"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Titania",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 848,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "849:10": {
+      "preRequisites:11": [
+        836
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "biomesoplenty:white_sand"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Triton",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 849,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "850:10": {
+      "preRequisites:11": [
+        833
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 7,
+            "OreDict:8": "",
+            "id:8": "chisel:cobblestone"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Charon",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 850,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "851:10": {
+      "preRequisites:11": [
+        98
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 5,
+            "OreDict:8": "",
+            "id:8": "chisel:andesite1"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Phobos",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 851,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "biome:8": "Phobos",
+          "dimension:3": 0,
+          "hideInfo:1": 0,
+          "index:3": 0,
+          "invert:1": 0,
+          "name:8": "Phobos",
+          "posX:3": 0,
+          "posY:3": 0,
+          "posZ:3": 0,
+          "range:3": -1,
+          "structure:8": "",
+          "taskID:8": "bq_standard:location",
+          "taxiCabDist:1": 0,
+          "visible:1": 0
+        }
+      }
+    },
+    "852:10": {
+      "preRequisites:11": [
+        98
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 7,
+            "OreDict:8": "",
+            "id:8": "chisel:sandstoneyellow"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Deimos",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 852,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "853:10": {
+      "preRequisiteTypes:7": [
+        0,
+        2
+      ],
+      "preRequisites:11": [
+        67,
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 7,
+            "OreDict:8": "",
+            "id:8": "chisel:marble"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Haumea",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 853,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "854:10": {
+      "preRequisiteTypes:7": [
+        0,
+        2
+      ],
+      "preRequisites:11": [
+        67,
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 1,
+            "OreDict:8": "",
+            "id:8": "minecraft:stained_hardened_clay"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Makemake",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 854,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "855:10": {
+      "preRequisiteTypes:7": [
+        0,
+        2
+      ],
+      "preRequisites:11": [
+        67,
+        70
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "notreepunching:cobblestone/marble"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Eris",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 855,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "856:10": {
+      "preRequisites:11": [
+        832
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 4,
+            "OreDict:8": "",
+            "id:8": "minecraft:stone"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Rhea",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 856,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "857:10": {
+      "preRequisites:11": [
+        832
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 7,
+            "OreDict:8": "",
+            "id:8": "chisel:sandstonered2"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Titan",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 857,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "858:10": {
+      "preRequisites:11": [
+        832
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "tardis:gallifreyan_grass_snow"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Iapetus",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 858,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "859:10": {
+      "preRequisites:11": [
+        834
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "No Description",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 7,
+            "OreDict:8": "",
+            "id:8": "minecraft:concrete_powder"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Oberon",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 859,
+      "rewards:9": {},
+      "tasks:9": {}
+    },
+    "860:10": {
+      "preRequisites:11": [
+        30
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "§6Storage Racks (Chest) §fcan hold 81 stacks of different items. \n\nA unique feature of them however, is that when they are stacked on top of one another, they share inventories.\n\nThe Chest version allows you to store more than just one item, and it also has a search bar! It\u0027s (very) primitive Applied Energistics!\n\nThe Crate version only lets you store 64 stacks of 1 item, but it is useful too.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": "",
+            "id:8": "industrialrenewal:storage_chest"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "Storage Racks",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 860,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "industrialrenewal:storage_chest"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "industrialrenewal:storage_rack"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
+    },
+    "861:10": {
+      "preRequisites:11": [
+        30
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "autoclaim:1": 0,
+          "desc:8": "The§a Camo Bench §rcan be used to change the texture of Techguns armor to your favorite one. The bench should work with any Techguns armor with the exception of Ranger armor.",
+          "globalshare:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "Damage:2": 8,
+            "OreDict:8": "",
+            "id:8": "techguns:simplemachine"
+          },
+          "ignoresview:1": 0,
+          "ismain:1": 0,
+          "issilent:1": 0,
+          "lockedprogress:1": 0,
+          "name:8": "New Quest",
+          "questlogic:8": "AND",
+          "repeat_relative:1": 1,
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "tasklogic:8": "AND",
+          "visibility:8": "ALWAYS"
+        }
+      },
+      "questID:3": 861,
+      "rewards:9": {},
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "partialMatch:1": 1,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 8,
+              "OreDict:8": "",
+              "id:8": "techguns:simplemachine"
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      }
     }
   },
   "questLines:9": {
@@ -62357,7 +63684,7 @@
           "sizeX:3": 48,
           "sizeY:3": 48,
           "x:3": 84,
-          "y:3": 456
+          "y:3": 408
         },
         "21:10": {
           "id:3": 25,
@@ -62494,10 +63821,10 @@
         },
         "40:10": {
           "id:3": 129,
-          "sizeX:3": 24,
-          "sizeY:3": 24,
-          "x:3": 96,
-          "y:3": 516
+          "sizeX:3": 36,
+          "sizeY:3": 36,
+          "x:3": 90,
+          "y:3": 486
         },
         "41:10": {
           "id:3": 135,
@@ -62591,18 +63918,18 @@
           "y:3": 636
         },
         "54:10": {
-          "id:3": 739,
-          "sizeX:3": 24,
-          "sizeY:3": 24,
-          "x:3": 156,
-          "y:3": 684
-        },
-        "55:10": {
           "id:3": 763,
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -108,
           "y:3": 618
+        },
+        "55:10": {
+          "id:3": 861,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 156,
+          "y:3": 672
         }
       }
     },
@@ -62792,8 +64119,8 @@
           "id:3": 49,
           "sizeX:3": 36,
           "sizeY:3": 36,
-          "x:3": -42,
-          "y:3": 90
+          "x:3": -8,
+          "y:3": 88
         },
         "23:10": {
           "id:3": 50,
@@ -63051,8 +64378,8 @@
           "id:3": 437,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": 12,
-          "y:3": 96
+          "x:3": 36,
+          "y:3": 120
         },
         "60:10": {
           "id:3": 518,
@@ -66754,35 +68081,252 @@
           "sizeX:3": 48,
           "sizeY:3": 48,
           "x:3": -24,
-          "y:3": -12
+          "y:3": -24
         },
         "1:10": {
           "id:3": 68,
           "sizeX:3": 48,
           "sizeY:3": 48,
           "x:3": -24,
-          "y:3": 60
+          "y:3": 48
         },
         "2:10": {
           "id:3": 69,
           "sizeX:3": 48,
           "sizeY:3": 48,
           "x:3": -24,
-          "y:3": 132
+          "y:3": 120
         },
         "3:10": {
           "id:3": 70,
-          "sizeX:3": 48,
-          "sizeY:3": 48,
-          "x:3": 48,
-          "y:3": -12
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -12,
+          "y:3": -60
         },
         "4:10": {
           "id:3": 98,
+          "sizeX:3": 40,
+          "sizeY:3": 40,
+          "x:3": 72,
+          "y:3": -20
+        },
+        "5:10": {
+          "id:3": 739,
           "sizeX:3": 48,
           "sizeY:3": 48,
-          "x:3": 120,
+          "x:3": -120,
+          "y:3": -24
+        },
+        "6:10": {
+          "id:3": 830,
+          "sizeX:3": 32,
+          "sizeY:3": 32,
+          "x:3": -200,
+          "y:3": -16
+        },
+        "7:10": {
+          "id:3": 831,
+          "sizeX:3": 160,
+          "sizeY:3": 160,
+          "x:3": -416,
+          "y:3": -80
+        },
+        "8:10": {
+          "id:3": 832,
+          "sizeX:3": 60,
+          "sizeY:3": 60,
+          "x:3": 318,
+          "y:3": -30
+        },
+        "9:10": {
+          "id:3": 833,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 666,
           "y:3": -12
+        },
+        "10:10": {
+          "id:3": 834,
+          "sizeX:3": 60,
+          "sizeY:3": 60,
+          "x:3": 426,
+          "y:3": -30
+        },
+        "11:10": {
+          "id:3": 835,
+          "sizeX:3": 60,
+          "sizeY:3": 60,
+          "x:3": 210,
+          "y:3": -30
+        },
+        "12:10": {
+          "id:3": 836,
+          "sizeX:3": 60,
+          "sizeY:3": 60,
+          "x:3": 534,
+          "y:3": -30
+        },
+        "13:10": {
+          "id:3": 837,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 228,
+          "y:3": -96
+        },
+        "14:10": {
+          "id:3": 838,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 228,
+          "y:3": -60
+        },
+        "15:10": {
+          "id:3": 839,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 228,
+          "y:3": -132
+        },
+        "16:10": {
+          "id:3": 840,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 228,
+          "y:3": -168
+        },
+        "17:10": {
+          "id:3": 841,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 336,
+          "y:3": -60
+        },
+        "18:10": {
+          "id:3": 842,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 336,
+          "y:3": -96
+        },
+        "19:10": {
+          "id:3": 843,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 336,
+          "y:3": -132
+        },
+        "20:10": {
+          "id:3": 844,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 336,
+          "y:3": -168
+        },
+        "21:10": {
+          "id:3": 845,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 444,
+          "y:3": -60
+        },
+        "22:10": {
+          "id:3": 846,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 444,
+          "y:3": -96
+        },
+        "23:10": {
+          "id:3": 847,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 444,
+          "y:3": -132
+        },
+        "24:10": {
+          "id:3": 848,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 444,
+          "y:3": -168
+        },
+        "25:10": {
+          "id:3": 849,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 552,
+          "y:3": -60
+        },
+        "26:10": {
+          "id:3": 850,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 666,
+          "y:3": -60
+        },
+        "27:10": {
+          "id:3": 851,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 80,
+          "y:3": -60
+        },
+        "28:10": {
+          "id:3": 852,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 80,
+          "y:3": -96
+        },
+        "29:10": {
+          "id:3": 853,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 738,
+          "y:3": -12
+        },
+        "30:10": {
+          "id:3": 854,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 810,
+          "y:3": -12
+        },
+        "31:10": {
+          "id:3": 855,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 882,
+          "y:3": -12
+        },
+        "32:10": {
+          "id:3": 856,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 336,
+          "y:3": -204
+        },
+        "33:10": {
+          "id:3": 857,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 336,
+          "y:3": -240
+        },
+        "34:10": {
+          "id:3": 858,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 336,
+          "y:3": -276
+        },
+        "35:10": {
+          "id:3": 859,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 444,
+          "y:3": -204
         }
       }
     },
@@ -67324,8 +68868,8 @@
           "id:3": 465,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": 264,
-          "y:3": -12
+          "x:3": 192,
+          "y:3": -66
         },
         "5:10": {
           "id:3": 578,
@@ -67359,57 +68903,57 @@
           "id:3": 742,
           "sizeX:3": 48,
           "sizeY:3": 48,
-          "x:3": 252,
-          "y:3": 30
+          "x:3": 180,
+          "y:3": -24
         },
         "10:10": {
           "id:3": 743,
           "sizeX:3": 48,
           "sizeY:3": 48,
-          "x:3": 330,
-          "y:3": 30
+          "x:3": 258,
+          "y:3": -24
         },
         "11:10": {
           "id:3": 744,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": 342,
-          "y:3": -12
+          "x:3": 270,
+          "y:3": -66
         },
         "12:10": {
           "id:3": 746,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": 294,
-          "y:3": 96
+          "x:3": 222,
+          "y:3": 42
         },
         "13:10": {
           "id:3": 747,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": 396,
-          "y:3": 96
+          "x:3": 324,
+          "y:3": 42
         },
         "14:10": {
           "id:3": 748,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": 396,
-          "y:3": 42
+          "x:3": 324,
+          "y:3": -12
         },
         "15:10": {
           "id:3": 749,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": 342,
-          "y:3": 96
+          "x:3": 270,
+          "y:3": 42
         },
         "16:10": {
           "id:3": 750,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": 294,
-          "y:3": 144
+          "x:3": 222,
+          "y:3": 90
         }
       }
     },
@@ -69327,6 +70871,13 @@
           "sizeY:3": 36,
           "x:3": 162,
           "y:3": 30
+        },
+        "13:10": {
+          "id:3": 860,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": 216,
+          "y:3": -12
         }
       }
     },
@@ -69529,7 +71080,7 @@
   },
   "questSettings:10": {
     "betterquesting:10": {
-      "editmode:1": 1,
+      "editmode:1": 0,
       "hardcore:1": 0,
       "home_anchor_x:5": 0.5,
       "home_anchor_y:5": 0.0,
